@@ -5,7 +5,7 @@ bool n_primo (int a, int b){
     return true;
   }
     else{
-      rsturn false;
+      return false;
     }
   }
   n_primo (a, i + 1);
