@@ -4,7 +4,7 @@ bool numprimo(int a, int i){
         if(a == i){
             return true;
         }
-        else{
+       else{
             return false;
         }
     }
