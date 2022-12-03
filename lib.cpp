@@ -8,5 +8,5 @@ bool n_primo (int a, int b){
       return false;
     }
   }
-  n_primo (a, i + 1);
+  n_primo (a , i + 1);
 }
